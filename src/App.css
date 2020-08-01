@@ -15,7 +15,9 @@ body {
   margin-bottom: 20px;
   justify-content: space-between;
 }
-
+.app_left {
+  flex: 0.9;
+}
 .app_stats {
   display: flex;
   justify-content: space-between;
